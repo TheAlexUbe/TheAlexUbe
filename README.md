@@ -1,16 +1,15 @@
-### Hi there 👋
+### Que tal!
 
-<!--
-**Npro360/Npro360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Soy un tipo que esta aprendiendo KALI Linux
+- Me dedico a aprender el lenguaje Dart (Flutter)
+- Me puedes contactar por medio de discord: TheAlexUbe#1151
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tengo un sitio de google pero no lo uso frecuentemente
+
+[Sitio Web](https://sites.google.com/view/thealeks/página-principal)
+
+---
+
+[Redes](https://linktr.ee/TheAlexUbe "Linktr.ee")
