@@ -14,4 +14,4 @@ Tengo un sitio de google pero no lo uso frecuentemente
 
 ---
 
-- usualmente uso Visual Studio Code
+- usualmente uso Visual Studio Code o Android Studio
