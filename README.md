@@ -1,8 +1,6 @@
 ### Que tal!
 
-- Soy un tipo que esta aprendiendo KALI Linux
 - Me dedico a aprender el lenguaje Dart (Flutter)
-- Me puedes contactar por medio de discord: TheAlexUbe#1151
 
 ---
 
