@@ -1,6 +1,7 @@
 ### Que tal!
 
-- Me dedico a aprender el lenguaje Dart (Flutter)
+- Me dedico a aprender el lenguaje Python 
+
 
 ---
 
