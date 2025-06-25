@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Alex Vázquez (a.k.a. Alex Ube)
+# 👋 ¡Hola! Soy Alex (a.k.a. Alex Ube)
 
 Bienvenido a mi espacio en GitHub. Soy un entusiasta de la tecnología, amante de los retos, la electrónica, el hacking ético y todo lo que tenga que ver con aprender algo nuevo cada día. 🎯
 
